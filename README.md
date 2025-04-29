@@ -12,7 +12,7 @@ go run main.go --job sample_data/job.txt --resume sample_data/resume.txt
 
 - `main.go` – Core CLI logic
 - `sample_data/` – Example job and resume text files
-- `assets/demo.png` – (Optional) Screenshot or GIF of the CLI in action
+- `cli_demo.png` – Screenshot of the CLI in action
 
 ## 🔧 Requirements
 
@@ -20,7 +20,7 @@ go run main.go --job sample_data/job.txt --resume sample_data/resume.txt
 
 ## 📸 Demo Output
 
-![CLI Demo](assets/demo.png)
+![CLI Demo](cli_demo.png)
 
 ## 📌 Future Enhancements
 
